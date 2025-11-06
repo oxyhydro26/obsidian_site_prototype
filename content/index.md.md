@@ -1,1 +1,8 @@
---- title: KIMBOB의 개발 블로그에 오신것을 환영합니다! --- 🚧🚧이사중입니다~🚧🚧
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
