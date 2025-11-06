@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"fa0fef2fa990fe2e","type":"group","x":-640,"y":-240,"width":2560,"height":1440,"color":"#876464","label":"Karl Jung Fundamentals"},
+		{"id":"823c6861f4ecbb56","type":"file","file":"content/Psychology/분석심리학 원론.md","x":-480,"y":-100,"width":380,"height":400},
+		{"id":"1ede6019d99f09a8","type":"file","file":"content/Psychology/정신의 4가지 기능.md","x":-83,"y":617,"width":400,"height":400},
+		{"id":"1d2ed21f40718246","type":"file","file":"content/Psychology/자아와 그림자.md","x":923,"y":-100,"width":400,"height":400},
+		{"id":"325876126f02cc36","type":"file","file":"content/Psychology/MBTI와 오해.md","x":603,"y":617,"width":400,"height":400},
+		{"id":"1223a7b05c637840","x":203,"y":-100,"width":400,"height":400,"type":"file","file":"content/Psychology/인간 정신의 거시적 구조.md"}
+	],
+	"edges":[
+		{"id":"140bec1bba52456d","fromNode":"823c6861f4ecbb56","fromSide":"bottom","toNode":"1ede6019d99f09a8","toSide":"left"},
+		{"id":"5bbacaafe32c7560","fromNode":"1ede6019d99f09a8","fromSide":"right","toNode":"325876126f02cc36","toSide":"left"},
+		{"id":"14871309be0df6fc","fromNode":"823c6861f4ecbb56","fromSide":"right","toNode":"1223a7b05c637840","toSide":"left"},
+		{"id":"9fa5a8a278465ff1","fromNode":"1223a7b05c637840","fromSide":"right","toNode":"1d2ed21f40718246","toSide":"left"}
+	]
+}

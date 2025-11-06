@@ -1,13 +1,21 @@
 ---
-title: Psychology Publications
+title: Yowa Publications
 draft: false
 tags:
   - example-tag
 ---
 
-### Analytische Psychologie
+### Lectures
 
-[[Introduction to Karl Jung]]
+[[분석심리학 원론]]
 
-[[유한성 이후]]
+[[현대 실제론 입문 - 퀑 탱 메이야수]]
 
+
+### Symposiums
+
+[[Psychology Lobby]]
+
+[[Econopolitics Lobby]]
+
+[[Cognitive Science Lobby]]
