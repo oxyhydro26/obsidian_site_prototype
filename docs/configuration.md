@@ -127,7 +127,7 @@ typography: {
 typography: {
   header: {
     name: "Schibsted Grotesk",
-    weights: [400, 700],
+    weights: [400],
     includeItalic: true,
   },
   body: {
