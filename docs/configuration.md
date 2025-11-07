@@ -130,6 +130,11 @@ typography: {
     weights: [400, 700],
     includeItalic: true,
   },
+  body: {
+    name: "Sans serif",
+    weights: [400],
+    includeItalic: false,
+  }
   ...
 }
 ```
